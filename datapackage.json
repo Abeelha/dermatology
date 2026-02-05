@@ -224,7 +224,7 @@
             "encoding": "utf-8",
             "mediatype": "text/csv",
             "format": "csv",
-            "path": "data/dermatology.csv"
+            "path": "data\\dermatology.csv"
         }
     ],
     "title": "Dermatology",
